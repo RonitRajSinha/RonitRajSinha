@@ -13,45 +13,46 @@
 
 ## My Toolkit
 
+## My Toolkit
+
 <p align="center">
-  <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34" height="34" alt="C++"/><br/><sub>C++</sub></a>
+  <a href="https://isocpp.org/"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="32" height="32" alt="C++"/><br/>C++</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" height="34" alt="Python"/><br/><sub>Python</sub></a>
+  <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" alt="Python"/><br/>Python</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" height="34" alt="JavaScript"/><br/><sub>JavaScript</sub></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" height="32" alt="JavaScript"/><br/>JavaScript</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34" height="34" alt="MySQL"/><br/><sub>MySQL</sub></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" height="32" alt="MySQL"/><br/>MySQL</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" height="34" alt="HTML"/><br/><sub>HTML</sub></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/E34F26" width="32" height="32" alt="HTML"/><br/>HTML</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34" height="34" alt="CSS"/><br/><sub>CSS</sub></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css/663399" width="32" height="32" alt="CSS"/><br/>CSS</a>
 </p>
 
 <p align="center">
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" height="34" alt="Git"/><br/><sub>Git</sub></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git"/><br/>Git</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" height="34" alt="GitHub"/><br/><sub>GitHub</sub></a>
+  <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub"/><br/>GitHub</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="34" height="34" alt="VS Code"/><br/><sub>VS Code</sub></a>
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="32" height="32" alt="VS Code"/><br/>VS Code</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="34" height="34" alt="Pandas"/><br/><sub>Pandas</sub></a>
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" width="32" height="32" alt="Pandas"/><br/>Pandas</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="34" height="34" alt="NumPy"/><br/><sub>NumPy</sub></a>
+  <a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" width="32" height="32" alt="NumPy"/><br/>NumPy</a>
 </p>
 
 <p align="center">
-  <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="34" height="34" alt="Matplotlib"/><br/><sub>Matplotlib</sub></a>
+  <a href="https://matplotlib.org/"><img src="https://cdn.simpleicons.org/matplotlib/11557C" width="32" height="32" alt="Matplotlib"/><br/>Matplotlib</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://seaborn.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="34" height="34" alt="Seaborn"/><br/><sub>Seaborn</sub></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="32" height="32" alt="Seaborn"/><br/>Seaborn</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="34" height="34" alt="scikit-learn"/><br/><sub>scikit-learn</sub></a>
+  <a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="32" height="32" alt="scikit-learn"/><br/>scikit-learn</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="34" height="34" alt="Excel"/><br/><sub>Excel</sub></a>
+  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="32" height="32" alt="Excel"/><br/>Excel</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/96/power-bi.png" width="34" height="34" alt="Power BI"/><br/><sub>Power BI</sub></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="32" height="32" alt="Power BI"/><br/>Power BI</a>
 </p>
-
-## Selected Projects
+## Projects
 
 ### [StreamVerse](https://github.com/RonitRajSinha/StreamVerse-)
 
