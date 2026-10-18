@@ -1,76 +1,74 @@
-# Hey, I'm Ronit Raj Sinha 👋
+# Hey, I'm Ronit Raj Sinha.
 
-### 💻 Computer Science & Data Analytics Student | Aspiring Software Engineer
+- I'm focused on **problem-solving, learning by building, and consistent improvement**.
+- My primary focus is **C++ and Data Structures & Algorithms**, alongside Python, data analytics, and web development.
+- I enjoy building practical projects, exploring new technologies, and understanding how things work under the hood.
 
-I enjoy solving problems, building useful applications, and exploring software development and data science.
+## What I'm Exploring
 
-- 🎓 B.Sc. Computer Science & Data Analytics student at IIT Patna
-- 🧠 Currently focusing on C++ DSA and problem solving
-- 🐍 Learning Python, SQL, and Data Science
-- 🌐 Building projects with JavaScript
-- 🌱 Exploring open source and Google Summer of Code
+- Strengthening my programming fundamentals and problem-solving skills.
+- Working with data through Python, SQL, Excel, and Power BI.
+- Building interactive web experiences and experimenting with APIs.
+- Learning how to contribute to open-source projects.
 
----
+## My Toolkit
 
-## 🛠️ Languages & Tools
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,c&theme=dark" />
+<p align="center">
+  <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34" height="34" alt="C++"/><br/><sub>C++</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" height="34" alt="Python"/><br/><sub>Python</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" height="34" alt="JavaScript"/><br/><sub>JavaScript</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34" height="34" alt="MySQL"/><br/><sub>MySQL</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" height="34" alt="HTML"/><br/><sub>HTML</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34" height="34" alt="CSS"/><br/><sub>CSS</sub></a>
 </p>
 
-### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,vite&theme=dark" />
+<p align="center">
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" height="34" alt="Git"/><br/><sub>Git</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" height="34" alt="GitHub"/><br/><sub>GitHub</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="34" height="34" alt="VS Code"/><br/><sub>VS Code</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="34" height="34" alt="Pandas"/><br/><sub>Pandas</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="34" height="34" alt="NumPy"/><br/><sub>NumPy</sub></a>
 </p>
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres&theme=dark" />
+<p align="center">
+  <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="34" height="34" alt="Matplotlib"/><br/><sub>Matplotlib</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="34" height="34" alt="Seaborn"/><br/><sub>Seaborn</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="34" height="34" alt="scikit-learn"/><br/><sub>scikit-learn</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="34" height="34" alt="Excel"/><br/><sub>Excel</sub></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/96/power-bi.png" width="34" height="34" alt="Power BI"/><br/><sub>Power BI</sub></a>
 </p>
 
-### Data Science & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch&theme=dark" />
-</p>
+## Selected Projects
 
-### Cloud, DevOps & Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github,vscode,postman&theme=dark" />
-</p>
+### [StreamVerse](https://github.com/RonitRajSinha/StreamVerse-)
 
-**Also exploring:** Data Structures & Algorithms, Microsoft Excel, Power BI, Tableau, and open-source contribution.
+A movie discovery website that brings movie information and posters together in one place.
 
----
+- **Built with:** HTML, CSS, JavaScript, and TMDB API
+- **Links:** [Repository](https://github.com/RonitRajSinha/StreamVerse-) · [Live Website](https://streamverse-india.vercel.app/)
 
-## 🚀 Featured Projects
+### [EPFO ECR Generator](https://github.com/RonitRajSinha/epfo-ecr-generator-)
 
-### 🎬 StreamVerse
-A movie discovery website featuring movie information and streaming availability.
+A practical tool designed to simplify EPFO ECR text-file generation.
 
-[View Repository](https://github.com/RonitRajSinha/StreamVerse-)
+- **Links:** [Repository](https://github.com/RonitRajSinha/epfo-ecr-generator-) · [Live Website](https://epfo-ecr-generator.vercel.app/)
 
-### 🏦 EPFO ECR Generator
-A tool designed to simplify EPFO ECR preparation.
+## Looking Ahead
 
-[View Repository](https://github.com/RonitRajSinha/epfo-ecr-generator-)
-
-### 📚 Pustakalya Pranali
-A Python-based library management system using Tkinter and SQLite.
-
-[View Repository](https://github.com/RonitRajSinha/pustakalya-pranali)
-
----
-
-## 📈 My Developer Journey
-
-- Strengthening my DSA fundamentals with C++
-- Practising problem solving and learning algorithms
-- Building projects while learning Python and Data Science
-- Exploring open-source communities and GSoC opportunities
-
----
-
-### 💡 Learn. Build. Solve. Repeat.
-
-*Focused on consistent progress, meaningful projects, and becoming a better developer every day.*
+- Strengthen my **DSA and problem-solving** fundamentals.
+- Build useful software and improve code quality.
+- Contribute to **open source** and learn from real-world codebases.
+- Keep improving through practice, experimentation, and feedback.
